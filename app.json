@@ -8,8 +8,8 @@
     "google drive",
     "clone bot"
   ],
-  "repository": "https://github.com/susutunvn/fclonesu2",
-  "website":   "https://github.com/susutunvn/fclonesu2",
+  "repository": "https://github.com/streambphc/Fclone_Tg_Bot",
+  "website":   "https://github.com/streambphc/Fclone_Tg_Bot",
   "success_url": "https://t.me/scippletech",
   "env": {
     "BOT_TOKEN": {
