@@ -1,5 +1,5 @@
 google-api-python-client
 #python-telegram-bot
-python==3.7
+python
 python-telegram-bot==13.1
 requests
